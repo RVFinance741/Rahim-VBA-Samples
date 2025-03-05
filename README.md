@@ -10,4 +10,4 @@ Welcome to my VBA portfolio! Here’s a sample of my automation work from 4+ yea
 - **File**: [InvoiceCleaner.vbs.xlsx](InvoiceCleaner.vbs.xlsx)
 - **Sample Data**: [sample_invoice_data.csv](sample_invoice_data.csv)
 
-See my resume for more: [LinkedIn](https://linkedin.com/in/rahimvirani-67795327)  | virani.rahim@gmail.com
+See my resume for more: [(www.linkedin.com/in/rahim-virani-67795327]  | virani.rahim@gmail.com
