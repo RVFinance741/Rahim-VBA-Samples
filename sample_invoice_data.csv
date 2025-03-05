@@ -1,0 +1,11 @@
+Invoice ID,Client Name,Amount,Status
+1001,John Doe,250.75,Paid
+1002,Jane Smith,100.0,Unpaid
+1003,Acme Corp,500.5,Paid
+1004,Beta Ltd,300.25,Unpaid
+1005,Charlie Inc,150.0,Paid
+1006,Delta LLC,700.6,Unpaid
+1007,Echo Ltd,275.4,Paid
+1008,Foxtrot Co,95.8,Unpaid
+1009,Gamma Inc,450.2,Paid
+1010,Hotel Corp,120.0,Unpaid
