@@ -7,7 +7,7 @@ Welcome to my VBA portfolio! Here’s a sample of my automation work from 4+ yea
 - **Purpose**: Automates invoice data formatting and flags unpaid bills.
 - **Impact**: Cuts cleanup time by 30%, mirroring my Aviva efficiency gains.
 - **Features**: Formats currency, highlights unpaid status, auto-fits columns.
-- **File**: [InvoiceCleaner.vbs](InvoiceCleaner.vbs)
-- **Sample Data**: [SampleData.xlsx](SampleData.xlsx) (optional)
+- **File**: InvoiceCleaner.vbs.xlsx 
+- **Sample Data**: sample_invoice_data.csv
 
-See my resume for more: [LinkedIn](https://linkedin.com/in/rahimvirani)
+See my resume for more: [LinkedIn](www.linkedin.com/in/rahim-virani-67795327) | virani.rahim@gmail.com
